@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="addition " max_length="40" name="x_58872_needit_addition" type="collection">
+        <element label="number1" max_length="40" name="number1" type="integer"/>
+        <element label="number2" max_length="40" name="number2" type="integer"/>
+        <element label="number3" max_length="40" name="number3" type="string"/>
+    </element>
+</database>
